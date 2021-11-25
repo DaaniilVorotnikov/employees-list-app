@@ -1,0 +1,12 @@
+.app-filter{
+    margin-top: 25px;
+    padding:25px;
+    color:ghostwhite;
+    background-color: darkgreen;
+    border-radius: 4px;
+    box-shadow: 15px 15px 30px rgba(0, 0, 0, .15);
+}
+
+.btn-group{
+    margin-top: 15px;
+}
