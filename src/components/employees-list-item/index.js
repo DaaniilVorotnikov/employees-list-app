@@ -1,2 +1,2 @@
-import EmployeesListItem from "./employess-list-item";
+import EmployeesListItem from "./employees-list-item";
 export default EmployeesListItem;

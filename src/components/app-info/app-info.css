@@ -1,4 +1,6 @@
 .app-info{
+    display: flex;
+    flex-direction: column;
     padding:25px;
     color:ghostwhite;
     background-color: darkgreen;

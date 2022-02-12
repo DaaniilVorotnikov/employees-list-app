@@ -1,0 +1,59 @@
+li {
+    list-style-type: none; 
+   }
+
+.employees-list-items{
+    margin-top:25px;
+    border-color: khaki;
+    border-radius: 25%;
+}
+
+.employee{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgb(248, 252, 193);
+    
+}
+
+.active{
+    background-color:lightgreen; 
+    /* font-weight:bold; */
+}
+
+
+.employee-title{
+    margin: 5px 15px;
+}
+
+.employee-input-style{
+    background-color: #11ffee00;
+    text-align: center;
+    border: none;
+}
+
+.employee-btn{
+    display: flex;
+    flex-direction: row;
+}
+
+.btn__border{
+    border-color: rgb(248, 252, 193); 
+}
+
+.bi-cash{
+    color: rgb(41, 99, 66);
+}
+
+.bi-trash{
+    color: red;
+}
+
+.bi-star{
+    color: rgb(219, 188, 9);
+    margin: 8px;
+}
+
+.bi-cash{
+    margin: 8px; 
+}
